@@ -1,6 +1,5 @@
 #include "main.h"
 
-int _putchar(char c);
 /**
  * print_numbers - 0 to 9
  * followed by new line
