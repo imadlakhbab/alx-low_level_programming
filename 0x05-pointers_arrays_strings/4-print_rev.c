@@ -4,7 +4,6 @@
  * @s: string
  * return: 0
  */
-int _putchar(char c);
 
 void print_rev(char *s)
 {
